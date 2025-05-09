@@ -69,20 +69,21 @@
 
 ## 📦 Project Structure
 
+## 📦 Project Structure
+
+```
 simple-book-inventory-system/
 │
 ├── backend/ # Spring Boot backend application
-│ ├── src/
-│ └── pom.xml
+│   ├── src/
+│   └── pom.xml
 │
 ├── frontend/ # React frontend application
-│ ├── src/
-│ └── package.json
+│   ├── src/
+│   └── package.json
 │
 └── README.md
-
-
----
+```
 
 ## 🤝 Contributing
 
