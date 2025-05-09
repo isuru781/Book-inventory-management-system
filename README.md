@@ -25,9 +25,9 @@
 | Layer     | Technology        |
 |-----------|-------------------|
 | 🎯 Backend  | Java, Spring Boot |
-| 🎨 Frontend | React, Axios      |
+| 🎨 Frontend | React     |
 | 🧰 Tools    | Maven, REST APIs  |
-| 🖥 Styling  | Bootstrap / Tailwind CSS (optional) |
+
 
 ---
 
